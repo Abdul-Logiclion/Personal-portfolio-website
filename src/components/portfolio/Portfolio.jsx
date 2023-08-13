@@ -14,42 +14,42 @@ const data = [
         image:IMG1,
         title:'Tetris Game',
         github:'https://github.com/Pawan-Kumar03/TetrisGame',
-        demo:'https://drive.google.com/file/d/1jUHY9Z7tUfIa5VhGRJy_fudHNIZBkHrX/view?usp=drive_link'
+        demo:'https://drive.google.com/file/d/1jUHY9Z7tUfIa5VhGRJy_fudHNIZBkHrX/view?usp=sharing'
     },
     {
         id:2,
         image:IMG2,
         title:'Tic Tac Toe AI GameBot',
         github:'https://github.com/Pawan-Kumar03/Tic-Tac-Toe-game-AI-Bot',
-        demo:'https://drive.google.com/file/d/1IiY6oV8RjMLMl8mISq-0eWytPGk67Mra/view?usp=drive_link'
+        demo:'https://drive.google.com/file/d/1IiY6oV8RjMLMl8mISq-0eWytPGk67Mra/view?usp=sharing'
     },
     {
         id:3,
         image:IMG3,
         title:'Disney HotStar Clone',
         github:'https://github.com/Pawan-Kumar03/Disney-HotStar-Clone',
-        demo:'https://drive.google.com/file/d/1YsnJ3omANahQRWeYa-c0bt__Aadhc0VB/view?usp=drive_link'
+        demo:'https://drive.google.com/file/d/1YsnJ3omANahQRWeYa-c0bt__Aadhc0VB/view?usp=sharing'
     },
     {
         id:4,
         image:IMG4,
         title:'Web Scrapping',
         github:'https://github.com/Pawan-Kumar03/webScrapping',
-        demo:'https://drive.google.com/file/d/1Zk6tbng_M8O8FMpBsZ4QimCvlJ9ssDTT/view?usp=drive_link'
+        demo:'https://drive.google.com/file/d/1Zk6tbng_M8O8FMpBsZ4QimCvlJ9ssDTT/view?usp=sharing'
     },
     {
         id:5,
         image:IMG5,
         title:'Snake Game',
         github:'https://github.com/Pawan-Kumar03/Snake-Game',
-        demo:'https://drive.google.com/file/d/1sYjoLx5NMSq3D89Se62S8DHKdRWeMd0M/view?usp=drive_link'
+        demo:'https://drive.google.com/file/d/1sYjoLx5NMSq3D89Se62S8DHKdRWeMd0M/view?usp=sharing'
     },
     {
         id:6,
         image:IMG6,
         title:'Bank Management System',
         github:'https://github.com/Pawan-Kumar03/BankManagementSystem',
-        demo:'https://drive.google.com/file/d/1sMfHaLq3F5WoTD9O56B7vpfpgNl8WIjr/view?usp=drive_link'
+        demo:'https://drive.google.com/file/d/1sMfHaLq3F5WoTD9O56B7vpfpgNl8WIjr/view?usp=sharing'
     }
 ]
 
