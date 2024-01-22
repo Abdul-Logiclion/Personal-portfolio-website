@@ -8,7 +8,7 @@ import {BsLinkedin} from 'react-icons/bs'
 const Footer = () =>{
     return(
         <footer>
-            <a href="#" className="footer__logo">PAWANTOGA</a>
+            <a href="#" className="footer__logo">Abdul Jabar Rahimoon</a>
 
             <ul className="permalinks">
                 <li><a href="#">Home</a></li>
@@ -21,13 +21,13 @@ const Footer = () =>{
             </ul>
 
             <div className="footer__socials">
-                <a href="https://web.facebook.com/pawan.toga.12?mibextid=ZbWKwL&_rdc=1&_rdr" target="_blank"><FaFacebookF/></a>
-                <a href="https://www.instagram.com/pawantoga/?igshid=MzNlNGNkZWQ4Mg%3D%3D"target="_blank"><FiInstagram/></a>
-                <a href="https://www.threads.net/@pawantoga"target="_blank"><RiMetaLine/></a>
-                <a href="https://www.linkedin.com/in/pawan-kumar-3b1869246/"target="_blank"><BsLinkedin/></a>
+                <a href="#" target="_blank"><FaFacebookF/></a>
+                <a href="#"target="_blank"><FiInstagram/></a>
+                <a href="#"target="_blank"><RiMetaLine/></a>
+                <a href="#"target="_blank"><BsLinkedin/></a>
             </div>
             <div className="footer__copyright">
-                <small>&copy; Pawantoga. All Rights Reserved.</small>
+                <small>&copy; Abdul Jabar. All Rights Reserved.</small>
             </div>
         </footer>
     )
